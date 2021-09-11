@@ -1,0 +1,17 @@
+Stack is a Data Structure which works on the discipline LIFO (Last In First Out).
+Recursion uses a system stack. Sometimes, to convert Recursion into iteration we have to use stacks. 
+Some recursion are directly converted into interation and some uses stacks.
+
+ADT of Stack:-
+
+DATA:-
+1. Space for storing elements. (because stacks is a collection of elements)
+2. Top pointer. (a pointer pointing the topmost element)
+
+OPERATIONS:-
+1. push()
+2. pop()
+3. peek(index)
+4. stackTop()
+5. isEmpty()
+6. isFull()
