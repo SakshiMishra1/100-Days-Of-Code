@@ -1,0 +1,33 @@
+Application of Stacks:-
+Infix expression
+Prefix expression
+Postfix expression
+
+INFIX EXPRESSION:-
+The expressionin which operator comes in between the operands.
+<operand><operator><operand>
+
+eg:-
+2+3
+a*c+d
+(8/2)-5
+
+We humans can understand infix expressions but computers can't. Computers understands Prefix expressions.
+
+PREFIX EXPRESSION (also known as polish notation):-
+<operator><operand><operand>
+
+((4*2)+3)               +*423
+Infix Expression        Prefix Expression
+
+(5-(6/3))               -5/63
+Infix Expression        Prefix Expression
+
+POSTFIX EXPRESSION (also known as reverse polish expression):-
+<operand><operand><operator>
+
+((4*2)+3)               42*3+
+Infix Expression        Postfix Expression
+
+(5-(6/3))               563/-
+Infix Expression        Postfix Expression
